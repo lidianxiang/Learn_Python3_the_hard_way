@@ -1,6 +1,6 @@
 # Learn_Python3_the_hard_way
 
-## 中文：《“笨方法”学Python3》
+## 中文名字：《“笨方法”学Python3》
 ## 作者：[**Zed A. Shaw**](https://en.wikipedia.org/wiki/Zed_Shaw),他的GitHub地址[请点击这里](https://github.com/zedshaw)
 ![](https://img3.doubanio.com/view/subject/l/public/s29782950.jpg)
 ---
