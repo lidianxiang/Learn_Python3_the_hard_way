@@ -42,10 +42,10 @@
 习题33 [while循环](https://github.com/lidianxiang/Learn_Python3_the_hard_way/blob/master/ex33.py)  
 习题34 访问列表的元素   
 习题35 [分支和函数](https://github.com/lidianxiang/Learn_Python3_the_hard_way/blob/master/ex35.py)    
-习题36 设计和调试 
+习题36 设计和调试   
 习题37 复习各种符号    
 习题38 [列表的操作](https://github.com/lidianxiang/Learn_Python3_the_hard_way/blob/master/ex38.py)  
-习题39 [字典，可爱的字典](https://github.com/lidianxiang/Learn_Python3_the_hard_way/blob/master/ex39.py) 
+习题39 [字典，可爱的字典](https://github.com/lidianxiang/Learn_Python3_the_hard_way/blob/master/ex39.py)   
 习题40 [模块、类和对象](https://github.com/lidianxiang/Learn_Python3_the_hard_way/blob/master/ex40.py)    
 习题41 学习面向对象术语  
 习题42 [对象、类和从属关系](https://github.com/lidianxiang/Learn_Python3_the_hard_way/blob/master/ex42.py)  
